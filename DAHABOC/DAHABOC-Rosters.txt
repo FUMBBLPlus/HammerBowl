@@ -1,4 +1,4 @@
-[Back to the KAHABOC Main Page|https://fumbbl.com/p/group&group=0&op=view]
+[Back to the DAHABOC Main Page|https://fumbbl.com/p/group&group=0&op=view]
 ----
 %%%
 
@@ -18,7 +18,9 @@
 
 !!Barak Varr
 
-Barak Varr is a Karak of the Dwarfs located in the Border Princes. Approaching from the land, it is impossible to tell that it is a busy port. In fact, even when standing on the cliff edge it seems that the ships are destined to smash into the cliff face. However, the fierce tides of the Black Gulf have carved out an enormous cave system, and it is in these caverns that the Dwarfs harbour their trading fleet.
+Barak Varr, or 'the Gate of the Sea' is unique amongst the Dwarf stronghols. The powerful tides of the Black Gulf have carved out a deep cave system into the tall white rock, and here in these vast sea caverns the Dwarfs harbour their trading fleet.
+
+The Holdof Barak Varr is small in comparison to the strongholds that tunnel deep into the Worlds Edge Mountains, but the Dwarfs of the Hold enjoy a relatively cosmopolitan lifestyle, and are less dour and introverted than other Dwarfs.
 
 Towns (highest population first): Barak Varr
 
@@ -140,7 +142,7 @@ Towns (highest population first): Karaz-a-Karak
 | |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
 | |0–2|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|>80k
 | |0–2|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|>90k
-| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|>160k
+| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|>170k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
@@ -148,6 +150,12 @@ Towns (highest population first): Karaz-a-Karak
 %%%
 
 !!Zhufbar
+
+Twin hold to Karak Varn, Zhufbar (Khazalid for "Torrent-gate") is the hold where the metals, Gromril in particular, mined out from beneath Karak Varn are smelted and forged into the weapons and armour which make the Dwarfs famous.
+
+The most mechanized of strongholds, Zhufbar is built into a deep chasm worn over time from a torrential waterfall that cascades down through its centre. The sound of thousands of grinding water wheels, wheezing bellows and pounding drop hammers echoes off nearby peaks - a never-ceasing tumult of industry.
+
+Created as an industrial centre, the hold also has the most important shrine for the Dwarf Engineers Guild and their Guildmaster sits on the Kings Council. Many types of machinery subsequently used throughout the dwarven empire were developed and tested at Zhufbar such as powerful pumps used to clear flooded mines.
 
 Towns (highest population first): Zhufbar
 
@@ -171,6 +179,10 @@ Towns (highest population first): Zhufbar
 
 !!Karak Angazhar
 
+Karak Angazhar, known also as Karak Angazbar is a small Dwarf Kingdom in the Black Mountains located just west of Black Fire Pass. Part of the Realm is the Fortess Migdhal Vongalbavak which guards the eastern entrance of Black Fire Pass. Karaz Angazhar is ancient enough and close enough to the old holds of Karaz Ankor to be occasionally mistaken as a Karaz Ankor settlement.
+
+They have both the toughness of the dwarfs living in Karaz Ankor and also the athletism of the western dwarfs. The dwarfs of Karak Angazhar realized their comparative advantage and specialized in training tough yet faster and more agile warriors, and for the football: Blitzers.
+
 Towns (highest population first): Karak Angazhar
 
 |||||||||||__Karak Angazhar Team__
@@ -184,6 +196,8 @@ Towns (highest population first): Karak Angazhar
 %%%
 
 !!Karak Azgaraz
+
+Karak Azgaraz is nestled among the flinty peaks of the Grey Mountain southeast of Übersreik. It has stood here since long before the Empire was founded. The hold is famous for their steam-powered war engines forged in the likeness of Dwarf Ancestor Gods who are honored very much there.
 
 Towns (highest population first): Karak Azgaraz
 
@@ -201,6 +215,8 @@ Towns (highest population first): Karak Azgaraz
 %%%
 
 !!Karak Bhufdar
+
+Karak Bhufdar is located in the northwest of the Vaults and is one of the newest and northernmost Dwarf holds of the Old World. Most Bhufdar dwarfs are miners, toiling in the tunnels or in mineworks beyond the hold’s defences for the raw metal ores needed by the craftsmen.
 
 Towns (highest population first): Karak Bhufdar
 
@@ -220,6 +236,8 @@ Towns (highest population first): Karak Bhufdar
 
 !!Karak Grom
 
+Karak Grom is a Dwarf hold in south of the Vaults. The Dwarf of Karak Grom have a friendly relationship with Domatburg, the largest human settlement in the Vaults. Many of the humans are treated as Dawongr (Dwarf-friend) already and are eligible to buy dwarf forged armor for themselves, fit to size.
+
 Towns (highest population first): Karak Grom
 
 |||||||||||__Karak Grom Team__
@@ -236,6 +254,12 @@ Towns (highest population first): Karak Grom
 
 !!Karak Hirn
 
+Karak Hirn, known as the "Hornhold" in Khazalid, is the most important Dwarf kingdom in the Black Mountains between Tilea and the southern borders of The Empire.
+
+A young and growing kingdom with many vassal fiefdoms surrounding it, this hold was settled slowly, and only grew in relative importance after the near-collapse of the old Dwarf Empire. Some of the cities that make up this hold are built on the mountain's side, and a few are even exposed to the air. Due to its position in the Black Mountains, this hold is not connected to the Underway, and so must be approached via overground roads, therefor passing through treacherous mountain passes and cliff-hanging tracks. Rich deposits of precious metals and iron are found here, but there are only a few lodes of the more rare metals and gems. None of the strongholds and cities of Karak Hirn have become wealthy or powerful enough to rival the great kingdoms and empires of the Worlds Edge Mountains. However, it is closer and more accessible to the markets of the Empire and Tilea and acts as a trading centre and market for imported wares from the ancient holds in the Worlds Edge Mountains.
+
+Karak Hirn is famous for its hissing, furnace-hearted beasts beloved of its Engineers.
+
 Towns (highest population first): Karak Hirn
 
 |||||||||||__Karak Hirn Team__
@@ -251,6 +275,10 @@ Towns (highest population first): Karak Hirn
 
 !!Karak Izor
 
+Karak Izor, known as the "Copper Hold" in Khazalid or "Copper Mountain" as humans call it, is considered the biggest and most important Dwarf kingdom in the south of the Old World, as a result of being built on a glacier-bound mountain that contains vast quantities of copper and other assorted minerals. The mountain the hold is built on is a part of a chain of mountains known as the Vaults.
+
+The King of Karak Izor is intent on creating his own version of Karaz Ankor with the neighbouring settlements in the Vaults. How this will be received in Karaz-a-Karak is uncertain. Even though these Dwarfholds are nominally independent of Karaz Ankor, many of their inhabitants still look towards the High King for guidance and leadership. Other Dwarf Kings are waiting to see how the High King reacts to this potential threat on his authority. Should it go unchallenged, other Dwarf Kings may expand their dominions; doubtless some of them will justify their actions by the need to check Karak Izor's expansion. A firmer response has the potential to re-open the rift between these Dwarf realms and Karaz Ankor. The situation could even lead to civil war.
+
 Towns (highest population first): Karak Izor
 
 |||||||||||__Karak Izor Team__
@@ -258,7 +286,7 @@ Towns (highest population first): Karak Izor
 | |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
 | |0–4|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|>80k
 | |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
-| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|>170k
+| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|>180k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
@@ -266,6 +294,12 @@ Towns (highest population first): Karak Izor
 %%%
 
 !!Karak Norn
+
+Karak Norn is built amonst the Grey mountains. On one side of the hold lies the forest of Loren and on the otherside lies the Black Mountains and Bugmans Brewery.
+
+The most famous claim of Karak Norn is being the Hold most associated with the great hero and brewmaster Josef Bugman. Josef's father Zamnil Bugman was one of the Dragonback Clan of Ekrund, and after it was overrun the family migrated northwest into the foot of the Grey Mountains on the Empire side near Karak Norn. Bugman's Brewery quickly became famous for their specialty of Troll Brew, and more importantly Bugman's XXXXX AKA Bugman's Brew which became world-famous as the greatest alcoholic beverage ever concocted. Unfortunately one day a Goblin named Git Guzzler attacked the Brewery while Bugman was away delivering ale. When Bugman returned to his ruined brewery, it appeared that most of the ale had been drunken in one victorious orgy of destruction. After the looting of Bugman's Brewery, Git Guzzler fled eastward into the Worlds Edge Mountains, and from thence his fate is unknown. The Brewery was rebuilt and is now defended by the forces of Karak Norn, and the hold is payed with ale.
+
+The athletes of Karak Norn play for the fun of the game and they enjoy it the most with some ale in the belly.
 
 Towns (highest population first): Karak Norn
 
@@ -283,6 +317,10 @@ Towns (highest population first): Karak Norn
 %%%
 
 !!Karak Ziflin
+
+The small hold of Karak Ziflin lies in the Grey Mountains just north of the Axe Bite Pass between Bretonnia and the Empire. Nothing original there worth mentioning. Frustrated by their commonness, the dwarfs of Karak Ziflin obtained some Ancestor-Engines from their kins of Karak Azgaraz.
+
+They hope for a significant improvement of their football with these monstrous machines which ends their commonness and will be something to be proud of.
 
 Towns (highest population first): Karak Ziflin
 
