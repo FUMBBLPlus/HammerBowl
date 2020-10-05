@@ -12,20 +12,42 @@
 
 %%%
 
-!!Karaz-a-Karak
+!!!Karaz Division
+%%%
 
-The mightiest and most populous of all Dwarf cities, and it remains the capital of the Karaz Ankor and is the stronghold of the High King. Here, amongst its ancient temples to the Ancestor Gods, High King Thorgrim Grudgebearer holds court in a vaulted Great Hall large enough to engulf a human town.
 
-Towns (highest population first): Karaz-a-Karak
+!!Barak Varr
 
-|||||||||||__Karaz-a-Karak Team__
-|||__Positional__ |__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
-| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|70k
-| |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|80k
-| |0–2|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|80k
-| |0–2|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|90k
-| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|180k
+Barak Varr is a Karak of the Dwarfs located in the Border Princes. Approaching from the land, it is impossible to tell that it is a busy port. In fact, even when standing on the cliff edge it seems that the ships are destined to smash into the cliff face. However, the fierce tides of the Black Gulf have carved out an enormous cave system, and it is in these caverns that the Dwarfs harbour their trading fleet.
+
+Towns (highest population first): Barak Varr
+
+|||||||||||__Barak Varr Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Deck Dwarf|5|3|2|8|Block, Sidestep, Thick Skull|GS|AP|>70k
+| |0–2|<Cannoneer|4|3|2|8|Block, Bombardier, Hail Mary Pass, Safe Throw,%%%Secret Weapon (6+), Thick Skull|GS|AP|>70k
+| |0–4|<Cabin Dwarf|6|3|3|8|Block, Sidestep, Thick Skull|GAS|P|>90k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
+|||__Apothecary__||||||||Yes.
+|||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
+
+%%%
+
+!!Karak Azgal
+
+Karak Azgal was once an extremely wealthy Dwarf Hold that has since fallen under the control of the Greenskins and the Skaven. The Greenskins destroyed and abandoned Karak Azgal in frustration after failing to find Stunty treasure. The Dragon Graug the Terrible soon claimed the hold. For many years, treasure seekers and adventurers came to the crag to challenge the Dragon and loot the ruins. All of them failed until the Dwarf warrior Skalf Dragonslayer entered the ruins. He discovered the hidden vault and confronted Graug. After an epic battle, Skalf slew the Dragon by chopping off his head, claimed the treasures and the kingship of Karak Azgal for himself. The Dwarfs made no attempt to recapture the hold, which is still infested with Goblins, Skaven, and other foul creatures. Instead, Skalf and his descendants established a town, Deadgate, in the valley below the old entrance.
+
+It is now a major destination for adventuring and mercenary bands of the Old World who seek to brave its dangers in the hopes of plundering its still vast riches. The Dwarfs are happy to allow this activity — so long as they can heavily tax any who return to the surface after plundering their former home.
+
+Towns (highest population first): Karak Azgal, Deathgate, Skalf's Hold
+
+|||||||||||__Karak Azgal Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–2|<Halfling|5|2|3|6|Dodge, Right Stuff, Stunty|A|GSP|>30k
+| |0–4|<Human|6|3|3|8| |G|ASP|>50k
+| |0–2|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|>90k
+|||__Re-Rolls__|||||||| 70k (140k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
 
@@ -38,108 +60,239 @@ The last of the great southern holds to remain under Dwarf control, Karak Azul, 
 Towns (highest population first): Karak Azul
 
 |||||||||||__Karak Azul Team__
-|||__Positional__ |__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
-| |0–16|<Longbeard|4|3|2|10|Block, Tackle, Thick Skull|GS|AP|80k
-| |0–4|<Ironbreaker|4|3|2|10|Block, Tackle, Stand Firm, Thick Skull|GS|AP|100k
-| |0–1|<Rune Guardian|3|5|1|10|Loner, Bone-head, Mighty Blow, Thick Skull|S|GAP|120k
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|10|Block, Tackle, Thick Skull|GS|AP|>80k
+| |0–4|<Ironbreaker|4|3|2|10|Block, Tackle, Stand Firm, Thick Skull|GS|AP|>100k
+| |0–1|<Rune Guardian|3|5|1|10|Loner, Claw, No Hands, Secret Weapon (6+),%%%Stand Firm, Thick Skull, Timm-ber!, Wild Animal|S|GAP|>120k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
 
 %%%
 
-!! Karak Kadrin
+!!Karak Eight Peaks
+
+Karak Eight Peaks was one of the greatest kingdoms ever created by the Dwarfs of the Golden Age, rivaling even the capital city of Karaz-a-Karak in terms of sheer power, wealth, and beauty. As the cataclysmic age known as the Time of Woes has erupted all across the world, the grand halls of Karak Eight Peaks were laid low by coming onslaught of the Greenskin and Skaven race. With their arrival, the city has become an eternal battleground between these three races that would endure until the inevitable destruction of this world.
+
+Recently Belegar Ironhammer and his dwarves have gained a foothold in the city, largely confined to the surface and upper levels of the city, despite being under a near-continuous siege. Slowly they found and sealed off the tunnels the goblins and Skaven had used to breach the city, as well as walling off areas too poisoned by Chaos to be reclaimed.
+
+Towns (highest population first): Karak Eight Peaks (Vala-Azril-Ungol)
+
+|||||||||||__Karak Eight Peaks Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–1|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|>80k
+| |0–1|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
+| |0–1|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|>90k
+| |0–1|<Ironbreaker|4|3|2|10|Block, Tackle, Stand Firm, Thick Skull|GS|AP|>100k
+| |0–1|<Rune Guardian|3|5|1|10|Loner, Claw, No Hands, Secret Weapon (6+),%%%Stand Firm, Thick Skull, Timm-ber!, Wild Animal|S|GAP|>120k
+|||__Re-Rolls__|||||||| 50k (100k after team creation)
+|||__Apothecary__||||||||Yes.
+|||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
+
+%%%
+
+!!Karak Kadrin
 
 Situated south of Peak Pass, Karak Kadrin (“Stronghold of the Pass”) is the largest of the northern holds after Karaz-a-Karak. In its heyday, the pass connected the strongholds of the west to the mines and settlements of the eastern side of the World's Edge Mountains. Since the fall of the east, Dwarfs no longer use this pass, but it has become one of the main routes for marauding Orcs and Goblins from the Dark Lands. Karak Kadrin, nicknamed “The Slayer Keep” by the Dwarfs, guards the pass against the greenskin invaders.
 
 Towns (highest population first): Karak Kadrin
 
-|||||||||||__ Karak Kadrin Team__
-|||__Positional__ |__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
-| |0–16|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|80k
-| |0–2|<Giant Slayer|5|4|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|130k
-| |0–1|<Dragon Slayer|5|4|2|8|Block, Dauntless, Frenzy, Mighty Blow, Thick Skull|GS|AP|160k
-| |0–1|<Daemon Slayer|5|4|2|8|Block, Dauntless, Frenzy, Mighty Blow,%%%Multiple Block, Thick Skull|GS|AP|170k
+|||||||||||__Karak Kadrin Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|>80k
+| |0–2|<Giant Slayer|5|4|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|>130k
+| |0–1|<Dragon Slayer|5|4|2|8|Block, Dauntless, Frenzy, Mighty Blow, Thick Skull|GS|AP|>160k
+| |0–1|<Daemon Slayer|5|4|2|8|Block, Dauntless, Frenzy, Mighty Blow,%%%Multiple Block, Thick Skull|GS|AP|>170k
+|||__Re-Rolls__|||||||| 60k (120k after team creation)
+|||__Apothecary__||||||||Yes.
+|||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
+
+%%%
+
+!!Karak Raziak
+
+Karak-Raziak is a minor dwarven hold serving under the aegis of Karak-Kadrin, located further north. It played an important role during the Wars of the Vampire Counts, in which its rulers, along with others from other holds, sent warriors to aid the Empire as it battled Konrad von Carstein's undead hordes.
+
+Towns (highest population first): Karak Raziak
+
+|||||||||||__Karak Raziak Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
+| |0–4|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|>90k
+| |0–2|<Doomseeker|4|5|2|8|Ball & Chain, Block, Dauntless, No Hands,%%%Secret Weapon (7+), Thick Skull|GS|AP|>90k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
 
 %%%
 
-!! Zhufbar
+!!Karaz-a-Karak
+
+The mightiest and most populous of all Dwarf cities, and it remains the capital of the Karaz Ankor and is the stronghold of the High King. Here, amongst its ancient temples to the Ancestor Gods, High King Thorgrim Grudgebearer holds court in a vaulted Great Hall large enough to engulf a human town.
+
+Towns (highest population first): Karaz-a-Karak
+
+|||||||||||__Karaz-a-Karak Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
+| |0–2|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|>80k
+| |0–2|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|>90k
+| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|>160k
+|||__Re-Rolls__|||||||| 50k (100k after team creation)
+|||__Apothecary__||||||||Yes.
+|||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
+
+%%%
+
+!!Zhufbar
 
 Towns (highest population first): Zhufbar
 
-|||||||||||__ Zhufbar Team__
-|||__Positional__ |__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
-| |0–16|<Engineer|4|3|2|9|Block, Sure Hands, Thick Skull|GS|AP|70k
-| |0–2|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|80k
-| |0–2|<Chainsawer|4|3|2|10|Block, Chainsaw, Secret Weapon (6+), Thick Skull|GS|AP|80k
-| |0–2|<Grenadier|4|3|2|10|Block, Bombardier, Pass, Secret Weapon (6+), Thick Skull|GS|AP|80k
-| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|180k
+|||||||||||__Zhufbar Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Engineer|4|3|2|9|Accurate, Block, Sure Hands, Thick Skull|GS|AP|>70k
+| |0–2|<Blitzer|5|3|3|9|Accurate, Block, Thick Skull|GS|AP|>80k
+| |0–2|<Bombardier|4|3|2|10|Accurate, Block, Bombardier, Secret Weapon (6+),%%%Thick Skull|GS|AP|>80k
+| |0–2|<Chainsawer|4|3|2|10|Accurate, Block, Chainsaw, Secret Weapon (6+),%%%Thick Skull|GS|AP|>80k
+| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|>160k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
 
 %%%
 
-!! Barak Varr
+%%%
+!!!Dabaz Division
+%%%
 
-Towns (highest population first): Barak Varr
 
-|||||||||||__ Barak Varr Team__
-|||__Positional__ |__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
-| |0–16|<Deck Dwarf|5|3|2|8|Block, Sidestep, Thick Skull|GS|AP|70k
-| |0–2|<Cabin Dwarf|6|3|3|8|Block, Sidestep, Thick Skull|GAS|P|90k
-| |0–2|<Cannon|2|5|1|10|Loner, Bombardier, Hail Mary Pass, No Hands,%%%Really Stupid, Secret Weapon (5+), Safe Throw,%%%Stand Firm, Timm-ber!, Titchy||^Peaked|70k
+!!Karak Angazhar
+
+Towns (highest population first): Karak Angazhar
+
+|||||||||||__Karak Angazhar Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–6|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|>80k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
 
 %%%
 
-!! Karak Hirn
+!!Karak Azgaraz
+
+Towns (highest population first): Karak Azgaraz
+
+|||||||||||__Karak Azgaraz Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Fullbeard|5|3|2|8|Block, Thick Skull|GS|AP|>60k
+| |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
+| |0–2|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|>90k
+| |0–2|<Ironbreaker|4|3|2|10|Block, Tackle, Stand Firm, Thick Skull|GS|AP|>100k
+| |0–1|<Ancestor-Engine|4|5|1|10|Loner, Mighty Blow, Thick Skull, Wild Animal|S|GAP|>130k
+|||__Re-Rolls__|||||||| 50k (100k after team creation)
+|||__Apothecary__||||||||Yes.
+|||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
+
+%%%
+
+!!Karak Bhufdar
+
+Towns (highest population first): Karak Bhufdar
+
+|||||||||||__Karak Bhufdar Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Miner|4|3|2|8|Block, Thick Skull|GS|AP|>50k
+| |0–2|<Blaster|4|3|2|8|Block, Bombardier, Secret Weapon (6+), Thick Skull|GS|AP|>50k
+| |0–2|<Driller|4|3|2|8|Block, Chainsaw, No Hands, Secret Weapon (6+),%%%Thick Skull|GS|AP|>50k
+| |0–2|<Thruster|4|3|2|8|Block, Juggernaut, Thick Skull|GS|AP|>60k
+| |0–2|<Hurrier|4|4|2|8|Block, Thick Skull|GS|AP|>90k
+| |0–1|<Earth Borer|3|6|1|10|Loner, Chainsaw, No Hands, Secret Weapon (5+),%%%Stand Firm, Timm-ber!|S|GAP|>140k
+|||__Re-Rolls__|||||||| 50k (100k after team creation)
+|||__Apothecary__||||||||Yes.
+|||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
+
+%%%
+
+!!Karak Grom
+
+Towns (highest population first): Karak Grom
+
+|||||||||||__Karak Grom Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–2|<Human|6|3|3|9| |G|APS|>60k
+| |0–2|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|>80k
+| |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
+|||__Re-Rolls__|||||||| 50k (100k after team creation)
+|||__Apothecary__||||||||Yes.
+|||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
+
+%%%
+
+!!Karak Hirn
 
 Towns (highest population first): Karak Hirn
 
-|||||||||||__ Karak Hirn Team__
-|||__Positional__ |__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
-| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|70k
-| |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|80k
-| |0–2|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|80k
-| |0–2|<Ironbreaker|4|3|2|10|Block, Tackle, Stand Firm, Thick Skull|GS|AP|100k
+|||||||||||__Karak Hirn Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–6|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
+| |0–1|<Furnace-Hearted|3|5|1|9|Loner, Foul Appearance, Mighty Blow, Stunty,%%%Wild Animal|S|GAP|>130k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
 
 %%%
 
-!! Karak Izor
+!!Karak Izor
 
 Towns (highest population first): Karak Izor
 
-|||||||||||__ Karak Izor Team__
-|||__Positional__ |__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
-| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|70k
-| |0–4|<Human|6|3|3|9| |G|APS|60k
-| |0–2|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|80k
-| |0–2|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|90k
+|||||||||||__Karak Izor Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–4|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|>80k
+| |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
+| |0–1|<Deathroller|4|7|1|10|Loner, Break Tackle, Dirty Player, Juggernaut,%%%Mighty Blow, No Hands, Secret Weapon (4+), Stand Firm|S|GAP|>170k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
 
 %%%
 
-!! Karak Norn
+!!Karak Norn
 
 Towns (highest population first): Karak Norn
 
-|||||||||||__ Karak Norn Team__
-|||__Positional__ |__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
-| |0–16|<Fullbeard|5|3|2|8|Block, Thick Skull|GS|AP|60k
-| |0–4|<Catcher|6|3|3|8|Catch, Sure Feet, Thick Skull|GA|PS|80k
-| |0–2|<Thrower|5|3|3|8|Block, Pass, Sure Hands, Thick Skull|GPS|A|90k
-| |0–2|<Troll Slayer|5|3|2|8|Block, Dauntless, Frenzy, Thick Skull|GS|AP|90k
+|||||||||||__Karak Norn Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Fullbeard|5|3|1|8|Block, Jump Up, Thick Skull|GS|AP|>60k
+| |0–2|<Longbeard|4|3|1|9|Block, Jump Up, Tackle, Thick Skull|GS|AP|>70k
+| |0–2|<Blitzer|5|3|2|9|Block, Jump Up, Thick Skull|GS|AP|>80k
+| |0–2|<Runner|6|3|2|8|Sure Hands, Jump Up, Thick Skull|GP|AS|>80k
+| |0–2|<Troll Slayer|5|3|1|8|Block, Dauntless, Frenzy, Jump Up, Thick Skull|GS|AP|>90k
+|||__Re-Rolls__|||||||| 50k (100k after team creation)
+|||__Apothecary__||||||||Yes.
+|||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
+
+%%%
+
+!!Karak Ziflin
+
+Towns (highest population first): Karak Ziflin
+
+|||||||||||__Karak Ziflin Team__
+|||__Positional__|__MA__|__ST__|__AG__|__AV__|__Skills__|__Normal__|__Double__|__Price__
+| |0–16|<Fullbeard|5|3|2|8|Block, Thick Skull|GS|AP|>60k
+| |0–4|<Longbeard|4|3|2|9|Block, Tackle, Thick Skull|GS|AP|>70k
+| |0–2|<Blitzer|5|3|3|9|Block, Thick Skull|GS|AP|>80k
+| |0–2|<Runner|6|3|3|8|Sure Hands, Thick Skull|GP|AS|>80k
+| |0–1|<Ancestor-Engine|4|5|1|10|Loner, Mighty Blow, Thick Skull, Wild Animal|S|GAP|>130k
 |||__Re-Rolls__|||||||| 50k (100k after team creation)
 |||__Apothecary__||||||||Yes.
 |||__Star Players__||||||||Barik Farblast, Boomer, Flint Churnblade, Grim Ironjaw, Morg 'n' Thorg
